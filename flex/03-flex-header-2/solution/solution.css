@@ -60,6 +60,7 @@ ul {
   margin: 0;
   padding: 0;
   gap: 16px;
+  margin: 0;
 }
 
 .left, .right {
@@ -67,3 +68,4 @@ ul {
   align-items: center;
   gap: 16px;
 }
+
